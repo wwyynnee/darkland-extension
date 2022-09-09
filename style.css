@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+iframe {
+  background-color: white;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  height: 500px;
+  width: 400px;
+  border: 0;
+}
