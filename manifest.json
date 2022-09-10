@@ -4,12 +4,12 @@
   "version": "1.0",
   "manifest_version": 2,
   "browser_action": {
-    "default_icon": "assets/darkland.png",
+    "default_icon": "extensions/assets/darkland.png",
     "default_title": "Darkland",
-    "default_popup": "index.html"
+    "default_popup": "extensions/index.html"
   },
   "icons": {
-    "500": "assets/darkland.png"
+    "500": "extensions/assets/darkland.png"
   },
   "permissions": ["storage"]
 }
